@@ -1,4 +1,3 @@
-# JAVA_PBL
 
 # RetailPro – Multi-Branch Retail Management System
 
