@@ -187,16 +187,18 @@ RetailPro/
 
 ## ⚙️ Installation & Setup
 
+> For demo logins, roles and a typical demo walkthrough, see [PROJECT_GUIDE.md](PROJECT_GUIDE.md).
+
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/jerisham/JAVA_PBL.git
+git clone https://github.com/vsmayuri08/RetailPro.git
 ```
 
 Navigate into the project:
 
 ```bash
-cd JAVA_PBL
+cd RetailPro
 ```
 
 ---
