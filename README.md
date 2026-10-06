@@ -1,4 +1,3 @@
-
 # RetailPro – Multi-Branch Retail Management System
 
 RetailPro is a full-stack **multi-branch retail management system** designed to simplify and automate day-to-day retail operations. The system provides centralized management of products, inventory, sales, customers, suppliers, employees, and branch operations through a role-based platform.
@@ -158,7 +157,7 @@ RetailPro includes analytical modules to help understand business performance:
 ## 📁 Project Structure
 
 ```text
-retail-project/
+RetailPro/
 │
 ├── backend/
 │   ├── src/
@@ -180,6 +179,7 @@ retail-project/
 │   └── ...
 │
 ├── .gitignore
+├── PROJECT_GUIDE.md
 └── README.md
 ```
 
